@@ -23,7 +23,7 @@ var content = {
     
 };
 
-var htmlTemplate `<html>
+var htmlTemplate= `<html>
     <head>
         <title>
             ${title}
